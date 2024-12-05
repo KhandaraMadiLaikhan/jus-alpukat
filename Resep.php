@@ -24,4 +24,3 @@ echo "Masukkan alpukat, gula/madu, susu cair, dan es batu ke blender.";
 echo "Blender hingga halus.";
 echo "Tuang ke gelas, siap dinikmati!";
 
-echo "Itu dia resep dalam membuat jus alpukat";
